@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of all the proceedings in the drayning of the great level of the fenns extending into the counties of North'ton, Lincoln, Norffolk, Suffolk, Cambridge, and Huntington, and the Isle of Ely, from the time of queen Elizabeth untill this present May, 1661 / for the information of all concerned, by N.N.</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52822</idno>
+            <idno type="STC">Wing N46A</idno>
+            <idno type="STC">ESTC R41533</idno>
+            <idno type="EEBO-CITATION">31355520</idno>
+            <idno type="OCLC">ocm 31355520</idno>
+            <idno type="VID">110510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of all the proceedings in the drayning of the great level of the fenns extending into the counties of North'ton, Lincoln, Norffolk, Suffolk, Cambridge, and Huntington, and the Isle of Ely, from the time of queen Elizabeth untill this present May, 1661 / for the information of all concerned, by N.N.</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for the use of the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  England.</term>
+               <term>Reclamation of land --  England.</term>
+               <term>Fens, The (England)</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110510:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 82 -->
+            <p>A NARRATIVE OF ALL THE Proceedings in the <hi>Drayning</hi> of the GREAT LEVEL of the FENNS, Extending into the Counties of <hi>North<hi rend="sup">ton</hi>. Lincoln, Norffolk, Suffolk, Cambridge,</hi> and <hi>Huntington,</hi> and the ISLE of <hi>ELY;</hi> From the time of <hi>QUEEN ELIZABETH,</hi> untill this preſent <hi>MAY,</hi> 1661.</p>
+            <p>For the Information of all concerned.</p>
+            <p>By <hi>N. N.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. W.</hi> for the uſe of the Author, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110510:2"/>
+            <!-- PDF PAGE 83 -->
+            <pb n="1" facs="tcp:110510:2"/>
+            <!-- PDF PAGE 83 -->
+            <head>A Narrative of all the proceedings in the <hi>Dray<g ref="char:EOLhyphen"/>ning</hi> of the Great Level, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the 43. year of Queen <hi>Eliz.</hi>
+               <note place="margin">
+                  <hi>43</hi> Eliz.</note> an Act was made to encourage any that would undertake the <hi>Drayning</hi> of the ſaid great Le<g ref="char:EOLhyphen"/>vel, which was attempted in ſeveral parts; by <hi>Carril</hi> for the <hi>Drayning</hi> of <hi>Thorney;</hi> by <hi>Cock<g ref="char:EOLhyphen"/>ing</hi> and others for <hi>Londoners</hi> Fenns; which were both gained, and loſt again.</p>
+            <p>In the third year of King <hi>James,</hi>
+               <note place="margin">
+                  <hi>3</hi> Jac.</note> the whole was attempted to be <hi>Drayned</hi> by Sir <hi>John Popham</hi> K<hi rend="sup">t</hi>. Chief Juſtice, Sir <hi>Thomas Fleming</hi> Chief Baron, Sir <hi>William Rumney</hi> Knight, and Alderman of <hi>London,</hi> and <hi>John Eldred</hi> Citizen of <hi>London,</hi> who were to have had for their recompence, 130000. acres, who did proceed, but could not effect that work.</p>
+            <p>In the 16<hi rend="sup">th</hi>. year of King <hi>James,</hi>
+               <note place="margin">
+                  <hi>16</hi> Jac.</note> Sir <hi>William Ayloff</hi> K<hi rend="sup">t</hi>. and <hi>Anthony Thomas</hi> 
+               <abbr>Eſq</abbr> became undertakers to
+<pb n="2" facs="tcp:110510:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 84 -->drain the ſaid Level, and were to have had two thirds of ſome, and half of other grounds for their recom<g ref="char:EOLhyphen"/>pence;<note place="margin">Came<g ref="char:EOLhyphen"/>bridge Law, Feb. <hi>20. 19</hi> Jac. Sept. <hi>6.</hi> Car. <hi>1.</hi>
+               </note> but this <hi>Drayning</hi> was without ſucceſs.</p>
+            <p>Afterwards King <hi>James</hi> himſelf by a Law of Sew<g ref="char:EOLhyphen"/>ers was declared Undertaker for the <hi>Drayning</hi> the whole, and was to have had for his recompence, 120000. acres; But this attempt likewiſe failed.</p>
+            <p>In the 6<hi rend="sup">th</hi>. year of King <hi>Charles</hi> the firſt, (of bleſ<g ref="char:EOLhyphen"/>ſed memory) The Commiſſioners of Sewers for the ſaid great Level, and parts adjacent, did agree with one Sir <hi>Cornelius Vermuyden</hi> to undertake the <hi>Drayning</hi> the ſaid Level, who was to have had for his recompence, 95000. acres, but nothing was done, in reſpect of his being an Alien.</p>
+            <p>After in the ſaid 6<hi rend="sup">th</hi>.<note place="margin">Jan. <hi>6</hi> Car. <hi>1.</hi>
+               </note> year of King <hi>Charles,</hi> the then Commiſſioners of Sewers for the ſaid Great Level, and parts adjacent, did make it their requeſt to <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> then Earl of <hi>Bedford</hi> to undertake the ſaid work, who was to have for his recompence, 95000. acres, whereof the ſaid King was to have 12000. acres for his Royal aſſent to that Law, and concurrence to an Act of Parliament.</p>
+            <p>In purſuance whereof the ſaid Earl undertook this great and hazardous work, and for his aſſiſtance there<g ref="char:EOLhyphen"/>in, and by an Indenture conſiſting of 14. parts, Dated 27. <hi>Feb.</hi> 7. <hi>Car.</hi> 1<hi rend="sup">o</hi>.<note place="margin">Feb. <hi>7.</hi> Car.</note> he took in diverſe Adventurers, and Participants with him, who adventured for theſe ſeveral ſhares following;</p>
+            <p>
+               <hi>Viz.</hi>
+               <list>
+                  <item>The ſaid <hi>Francis</hi> Earl of <hi>Bedford</hi> for three, whole ſhares, or lots of 4000. acres to each lot.</item>
+                  <item>
+                     <hi>Oliver</hi> Earl of <hi>Bullingbrook</hi> for one lot of 4000.</item>
+                  <item>
+                     <pb n="3" facs="tcp:110510:3"/>
+                     <!-- PDF PAGE 84 -->
+                     <hi>Edward</hi> Lord <hi>Gorges</hi> for one.</item>
+                  <item>Sir <hi>Robert Heath</hi> K<hi rend="sup">t</hi>. for one.</item>
+                  <item>Sir <hi>Miles Sandys</hi> Knight and Baronet for two.</item>
+                  <item>Sir <hi>William Ruſſel</hi> Knight and Baronet for two.</item>
+                  <item>Sir <hi>Robert Bevill</hi> Knight for one.</item>
+                  <item>Sir <hi>Tho. Terringham</hi> K<hi rend="sup">t</hi>. for two.</item>
+                  <item>Sir <hi>Philbert Dernatt</hi> for one.</item>
+                  <item>
+                     <hi>William Sams</hi> Doctor at Law for one.</item>
+                  <item>
+                     <hi>Anthony Hamond</hi> 
+                     <abbr>Eſq</abbr> for two.</item>
+                  <item>
+                     <hi>Samuel Spalding</hi> Gent. for one.</item>
+                  <item>
+                     <hi>Andrew Burwell</hi> Gent. for one.</item>
+                  <item>Sir <hi>Robert Lovet</hi> Knight, for one.</item>
+               </list>
+In all twenty lots, each of 4000. acres divided be<g ref="char:EOLhyphen"/>tween the ſaid 14. parties.</p>
+            <p>In, and by which ſaid Indenture, amongſt other things, it is agreed, as followeth.</p>
+            <p>
+               <hi>That if any one of the aforeſaid parties, or their Aſ<g ref="char:EOLhyphen"/>ſigns, after notice, ſhould fail in the payment of ſuch mo<g ref="char:EOLhyphen"/>neys, as from time to time ſhould be impoſed on them, in purſuance of the ſaid Indenture for the carrying on the ſaid work, that then it ſhould be lawfull to, and for the rest of the ſaid parties, or their Aſſigns, to ſupply the ſame, or to admit ſome other perſon, or perſons, to have the ſhare of ſuch defaulture, paying the ſumm impoſed on the ſaid ſhare, and that all ſuch parties as aforeſaid, by him<g ref="char:EOLhyphen"/>ſelf, or his Aſſigns ſo failing, ſhall be wholly excluded, and for ever debarred from demanding, or receiving, all, or any ſuch ſumm, or ſumms of money, as any ſuch perſon, or perſons had formerly diſburſed, for, and towards the ſaid work.</hi>
+            </p>
+            <p>After the executing of the ſaid 14<hi rend="sup">th</hi>. part Inden<g ref="char:EOLhyphen"/>ture,
+<pb n="4" facs="tcp:110510:4"/>
+               <!-- PDF PAGE 85 -->divers of thoſe Participants did aſſign and con<g ref="char:EOLhyphen"/>vey unto other perſons ſeveral proportions of their ſhares, and Adventures by them undertaken by the ſaid Indenture.</p>
+            <p>By virtue of this Agreement, the ſaid Adventu<g ref="char:EOLhyphen"/>turers, and their Aſſigns proceeded ſo far in this hazardous adventure, that after the expence of 100000<hi rend="sup">l</hi>. therein, it was adjudged drayned at <hi>Peter<g ref="char:EOLhyphen"/>borough.</hi>
+               <note place="margin">
+                  <hi>12</hi> Car.</note>
+            </p>
+            <p>And in <hi>Octob.</hi>
+               <note place="margin">
+                  <hi>13</hi> Car.</note> in the 13<hi rend="sup">th</hi>. year of the ſaid King <hi>Charles,</hi> by a Law of Sewers made at <hi>S<hi rend="sup">t</hi>. Ives,</hi> the ſaid 95000. acres was ſet out by deſcriptions and boun<g ref="char:EOLhyphen"/>daries therein mentioned, where, and how this 95000. acres ſhould be taken out of each Pariſh, or Land<g ref="char:EOLhyphen"/>owners land in the whole Level, according to which ſetting forth, the whole 95000. acres was thus divi<g ref="char:EOLhyphen"/>ded and allotted.</p>
+            <p>Firſt, 12000. acres therof for the ſaid late K. <hi>Charls.</hi>
+            </p>
+            <p>And 80000. acres thereof was divided into twenty lots, each containing 4000. acres, which was divided amongſt the aforeſaid parties to the 14<hi rend="sup">th</hi>. part Deed, and their Aſſigns, as aforeſaid.</p>
+            <p>And 3000. acres did remain to be diſpoſed of at the pleaſure of the Adventurers.</p>
+            <p>In purſuance of this Law, a great part of the ſaid 95000. acres was divided from the Countrey, and ſome of the ſaid Adventurers had poſſeſſion of ſome parts of their ſaid proportions, but had no conveyan<g ref="char:EOLhyphen"/>ces, nor received but little rent.</p>
+            <p>For that by a Law of Sewers made at <hi>Huntingdon</hi> in the 14<hi rend="sup">th</hi>.<note place="margin">
+                  <hi>14</hi> Car.</note> year of the ſaid King <hi>Charles,</hi> upon com<g ref="char:EOLhyphen"/>plaint
+<pb n="5" facs="tcp:110510:4"/>
+               <!-- PDF PAGE 85 -->that the ſaid Level was not perfectly drayned, The ſaid King <hi>Charles</hi> (of happy memory) was de<g ref="char:EOLhyphen"/>clared undertaker to drain the ſame <hi>(inter alia)</hi> and was to have for his recompence, not only the ſaid 95000. acres ſet out unto the ſaid Earl, but alſo 57000. acres more out of the ſame Lands and Pa<g ref="char:EOLhyphen"/>riſhes within the ſaid Level, and the ſaid Earl and his Participants were to have had 40000. acres of the ſaid 95000. acres freed from Taxes for their charges ex<g ref="char:EOLhyphen"/>pended, which would have been of more advantage to them, than the whole 95000. acres on the terms they have it. After which Law the Inhabitants of the Country did re-enter upon the ſaid 80000. acres, and 3000. acres, part of the ſaid 95000. acres, and the ſaid King continued the poſſeſſion of the ſaid 12000 acres, but about the year 1641.<note place="margin">1641.</note> his ſaid Majeſty gave over his undertaking, and ſoon after the whole Level became drowned again, and then the Country entred upon the ſaid 12000. acres alſo, and kept the whole in their own poſſeſſion.</p>
+            <p>In this Condition the ſaid Level returned to be as bad drowned as ever before, with the loſs of 100000<hi rend="sup">l</hi>. to the ſaid Earl, and his Participants; afterwards a Parliament being called in the year 1640. the ſaid Earl and his Participants, or their Aſſigns, did peti<g ref="char:EOLhyphen"/>tion the ſaid Parliament, that they would impowr the ſaid Earl to go on, and perfect the aforeſaid work; and in 1641. their caſe was committed. But the ſaid Earl dying about the ſaid year, and the late unhappy wars being then begun, there was for ſome time a ſtop to the proſecution of the ſaid Act, till about the year
+<pb n="6" facs="tcp:110510:5"/>
+               <!-- PDF PAGE 86 -->1646. when <hi>William</hi> now Earl of <hi>Bedford,</hi> ſon and heir of the ſaid <hi>Francis;</hi> the Honourable <hi>John Ruſſell,</hi> and <hi>Edward Ruſſell,</hi> brothers to the ſaid <hi>William</hi> Earl of <hi>Bedford;</hi> Sir <hi>Myles Sandys,</hi> Sir <hi>John Marſham, An<g ref="char:EOLhyphen"/>thony Hamond, Robert Henley,</hi> Eſquires, and others, in number and intereſt, for the greateſt part concerned in the ſaid 83000 acres, did addreſs themſelves to the Parliament then ſitting, that they might be impowred by an Act to proſecute the ſaid work of <hi>Drayning,</hi> for the recovery of that vaſt and loſt Country, which af<g ref="char:EOLhyphen"/>ter ſeveral hearings of all parties before a Commit<g ref="char:EOLhyphen"/>tee, the Act was ready to be preſented to the houſe of Lords, but the late unhappy differences prevented for that time its further progreſs.</p>
+            <p>Afterwards about the year 1648. the ſaid <hi>William</hi> Earl of <hi>Bedford,</hi> by the aſſiſtance of Sir <hi>Myles Sandys, Robert Henley</hi> Eſquires, and divers others of his ſaid Participants, did proſecute the obtaining of an Act of that pretended Parliament, in order to the <hi>drayning</hi> of the aforeſaid Level. And after ſeveral hearings of all parties, both of the Country, and Adventurers, be<g ref="char:EOLhyphen"/>fore the Committee, an Act paſſed in the ſaid preten<g ref="char:EOLhyphen"/>ded Parliament in <hi>May</hi> 1649. By colour of which pretended Act, the ſaid Earl and his Participants did meet together in proſecution of the aofreſaid 14 part Indenture: And accordingly the Earl of <hi>Arrundel,</hi> (under whom Sir <hi>William Playter</hi> claims) Collonel <hi>John Ruſſell,</hi> and <hi>Edward Ruſſell</hi> Eſquires (brothers to the ſaid Earl of <hi>Bedford</hi>) Sir <hi>Myles Sandys,</hi> (under whom Collonel <hi>Samuel Sandys</hi> claims) Sir <hi>John Hew<g ref="char:EOLhyphen"/>ett,</hi> Sir <hi>William Terringham, William Dodſon,</hi> Sir <hi>John
+<pb n="7" facs="tcp:110510:5"/>
+                  <!-- PDF PAGE 86 -->Marſham, Anthony Hamond,</hi> and <hi>Robert Henley</hi> Eſquires, and divers others intereſſed in the ſaid work of Dray<g ref="char:EOLhyphen"/>ning, who had 7 parts of 8 in the ſaid 83000 acres, finding themſelves out of poſſeſſion, did in <hi>June</hi> fol<g ref="char:EOLhyphen"/>lowing, reſolve to raiſe moneys for carrying on the ſaid work in proſecution of the aforeſaid 14<hi rend="sup">th</hi> part Indenture, being inabled thereto (as the times then were) by the ſaid pretended Act. But ſeveral per<g ref="char:EOLhyphen"/>ſons failing in the due payment of their moneys, as aforeſaid; the ſaid Earl, with the reſidue of his ſaid Participants were neceſſitated about <hi>November</hi> fol<g ref="char:EOLhyphen"/>lowing, either to admit ſome other perſons in the room of thoſe who failed to ſupply the payment of ſuch moneys as was raiſed according to the ſaid A<g ref="char:EOLhyphen"/>greement, or otherwiſe to loſe the whole.</p>
+            <p>By which means moneys being raiſed, the ſaid work was carryed on till <hi>Lady Day</hi> 1653. and then the whole Level being adjudged drayned, poſſeſſion of the ſaid 95000 acres was given to them accordingly, and by virtue of an Act made in the Parliament begun the 25<hi rend="sup">th</hi>. of <hi>April,</hi> 1660. it ſtill continues.</p>
+            <p>Several Banks which together are above 200 miles in length, 70 miles whereof are generally 9 foot high, and 60 foot wide at ſeat or bottom, the reſt ge<g ref="char:EOLhyphen"/>nerally 5 foot high, and 24 foot wide at ſeat; Be<g ref="char:EOLhyphen"/>ſides, they have cut one Navigable River 21 miles long, an 100 foot broad, beſides divers Sewers and drains together above 400 miles in length, ſome 40 foot, ſome 30, ſome 20, none under 12 foot wide; beſides, they have made divers great and Navigable Saſſes and Sluces, and Bridges, for the doing whereof,
+<pb n="8" facs="tcp:110510:6"/>
+               <!-- PDF PAGE 87 -->and in other expences and buildings, and improving the ſaid Level, the ſaid Earl and his Participants have expended at leaſt 500000<hi rend="sup">l</hi>. and great ſumms it will yearly coſt to maintain it.</p>
+            <p>This being the true ſtate of the Caſe, as indifferent to all intereſts, and as an affectionate friend to the whole, I heartily wiſh and adviſe, that all parties herein concerned, would ſo far recede from their own opinions, and private intereſts, and for the pre<g ref="char:EOLhyphen"/>ſervation of the whole, unanimouſly ſubmit all dif<g ref="char:EOLhyphen"/>ferences to the determination of the Parliament, or to ſuch perſons as they in their wiſdoms ſhall think fit, whereby the whole may be preſerved, and all par<g ref="char:EOLhyphen"/>ticular intereſt may receive Juſtice, according to the Equity of their Cauſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110510:6"/>
+            <!-- PDF PAGE 87 -->
+         </div>
+      </body>
+   </text>
+</TEI>
